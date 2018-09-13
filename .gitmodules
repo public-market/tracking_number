@@ -1,3 +1,0 @@
-[submodule "lib/data"]
-	path = lib/data
-	url = https://github.com/jkeen/tracking_number_data
